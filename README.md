@@ -18,7 +18,7 @@
 
 ### Project Overveiw
 
-This data analysis project aims to provide insights into the sales performance of a Pizza Company, provides a comprehensive analysis of pizza sales for the period from January to December 2015.By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a Pizza Company, provides a comprehensive analysis of pizza sales for the period from January to December 2015. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ### Data Sources
 
