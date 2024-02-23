@@ -5,7 +5,15 @@
 - [Project Overveiw](#project-Overveiw)
 - [Data Sources](#data-Sources)
 - [Tools](#Tools)
-- [Project Overveiw](#project-Overveiw)
+- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
+- [Result Findings](#Result-Findings)
+- [Recommendations](#Recommendations)
+- [Limitations](#Limitations)
+- [Reference](#Reference)
+
+  
 
 
 ### Project Overveiw
@@ -51,7 +59,7 @@ The analysis results are summarized as follows:
 - A customer-segmentation strategy could be implemented to target customers who prefer the classic category and large size pizzas. This could help in effectively targeting high-LTV customers.
 
 
-### Limitations:
+### Limitations
 The report is based on a specific time period (Jan’15 - Dec’15), and the trends may have changed in the subsequent years.
 The report does not consider factors like promotional activities, competition, and market conditions, which can significantly impact sales.
 The report assumes that customer preferences for pizza categories and sizes will remain the same, which may not be the case.
