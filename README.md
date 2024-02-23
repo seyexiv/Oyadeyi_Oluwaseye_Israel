@@ -20,6 +20,9 @@
 
 This data analysis project aims to provide insights into the sales performance of a Pizza Company, provides a comprehensive analysis of pizza sales for the period from January to December 2015. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+
+![Backgroud pic ppt](https://github.com/seyexiv/Oyadeyi_Oluwaseye_Israel/assets/112202812/84790abe-3a30-48f5-a017-9cb62a9a7aed)
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about each sale made by the company.
